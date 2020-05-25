@@ -98,7 +98,7 @@ author:
   name             : "Juhwan Shin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Chemistry student from Seoul National University."
-  location         : ""
+  location         : "Seoul, Korea"
   email            : juhwan0911@gmail.com
   links:
     - label: "Email"
